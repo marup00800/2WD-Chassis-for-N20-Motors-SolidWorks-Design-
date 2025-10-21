@@ -6,8 +6,6 @@ The chassis is lightweight, compact, and ideal for robotics projects such as lin
 ## 🔩 Features
 - Designed for **N20 micro DC motors**  
 - **Mounting slots** for N20 motor brackets and wheels  
-- **Balanced weight distribution** for stable movement  
-- Optimized chassis **geometry for smooth motion and compact size**  
 
 ## 🧠 Tools Used
 - SolidWorks 
